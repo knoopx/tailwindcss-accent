@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-accent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knoopx/tailwindcss-accent.git"
+  },
+  "author": "Victor Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knoopx/tailwindcss-accent/issues"
+  },
+  "homepage": "https://github.com/knoopx/tailwindcss-accent#readme",
+  "dependencies": {
+    "color": "^3.1.3",
+    "lodash": "^4.17.21"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
